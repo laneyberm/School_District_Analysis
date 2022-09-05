@@ -9,8 +9,7 @@
 - Data Source: election_results.csv
 - Software: Python 3.10.6, Visual Studio Code, 1.70.2
 
-## Election-Audit Results Results: Using bulleted lists and images of DataFrames as support, address the following questions.
-There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data
+## Results
 
 #### The analysis of the election show that:
 - How is the district summary affected?
@@ -29,5 +28,5 @@ There is a bulleted list that addresses how each of the seven school district me
 #### After running the python code, the following results were displayed in a text file for easy viewing:
 <img src="https://github.com/laneyberm/Election_Analysis/blob/main/Resources/election_results.png" width="300">
 
-## Election-Audit Summary
+## Summary
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced.
