@@ -12,13 +12,28 @@
 ## Results
 
 ### District Summary
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/district_summary.png" width="800">
-- How is the district summary affected?
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/district_summary_THS_adjusted.png" width="800">
+The above table is the District Summary after the alterations to the math and reading scores have been taken. The below table is the district summary prior to the alterations in the data. We can note the following changes:
+
+- The total number of students have changed from 39,170 to 38,709.
+- The % Passing Math has changed from 75.0 to 74.8. There is a 0.02 difference in percentage.
+- The % Passing Reading has changed from 85.8 to 85.7. There is a 0.01 difference in percentage.
+- The % Overall Passing has changed from 65.2 to 64.9. There is a 0.03 difference in percentage.
+
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/district_summary_original_data.png" width="800">
 
 ### School Summary
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_THS_adjusted.png" width="800">
+The above table is the School Summary after the 9th Graders from Thomas High School has been removed. The below table is the district summary prior to the removal of the "NaN" score of 9th Graders from Thomas High School. We can note the following changes:
+
+- The total number of students have changed from 39,170 to 38,709.
+- The % Passing Math has changed from 66.9 to 93.2. There is a 0.02 difference in percentage.
+- The % Passing Reading has changed from 69.7 to 93.2. There is a 0.01 difference in percentage.
+- The % Overall Passing has changed from 65.1 to 90.6. There is a 0.03 difference in percentage.
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_nan.png" width="800">
 
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_original_data.png" width="800">
+
 - How is the school summary affected?
   - 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
