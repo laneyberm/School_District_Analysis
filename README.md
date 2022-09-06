@@ -12,31 +12,31 @@
 ## Results
 
 #### The analysis of the election show that:
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/district_summary.png" width="300">
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/district_summary.png" width="800">
 - How is the district summary affected?
 - 
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary.png" width="300">
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_THS_adjusted.png" width="800">
+
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_original_data.png" width="800">
 - How is the school summary affected?
   - 
 
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_THS_adjusted.png" width="300">
 
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_original_data.png" width="300">
   - 
 - How does replacing the ninth-grade scores affect the following:
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/grade_math_scores.png" width="300">
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/grade_reading_scores.png" width="300">
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/grade_math_scores.png" width="250">
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/grade_reading_scores.png" width="250">
   - Math and reading scores by grade
 
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_spending.png" width="300">
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_spending.png" width="700">
   - Scores by school spending
 
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_size.png" width="300">
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_size.png" width="700">
   - Scores by school size
 
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_type.png" width="300">
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_type.png" width="700">
   - Scores by school type
 
 #### After running the python code, the following results were displayed in a text file for easy viewing:
