@@ -1,13 +1,13 @@
-# School_District_Analysis
+# School District Analysis on High School Math and Reading Scores
 
-## Project Overview :Overview of the school district analysis: Explain the purpose of this analysis.
-#### A Colorado Board of Elections employees, Tom and Seth, has given us a CSV (comma-seperated-values) data file consisting of a number for the ballot ID and a name for the county and candidate, respectively. At this point, we don't know how many counties and candidates are in the file. Overall, the data appears readable and there are no unusual row values that we can see. We have been given election audit tasks to analyze the data and produce the election results to be presented to the election committee. 
+## Project Overview
+####  Math and reading grades for Thomas High School ninth graders appear to have been altered. 
 
 #### In this project, we will work together to create Python code to analyze the CSV data file to find the elections results. Additionally, we present a business proposal to the election commission on how this script can be used, with some modifications, for any election in the future. We used a pseudocode which will make the audit easier to present to colleagues and stakeholders. When looking at the code below, code with the "#" will act as a roadmap of what the steps will take to complete the task of the elections results. This will aid in following the data and recognizing where sections can be altered to analyze future elections given the same data file type. 
 
 ## Resources
 - Data Source: schools_complete.csv, students_complete.csv
-- Software: Jupyter Notebook. Python 3.10.6
+- Software: Jupyter Notebook
 
 ## Results
 
