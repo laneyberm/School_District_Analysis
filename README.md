@@ -23,7 +23,7 @@ The above table is the District Summary after the alterations to the math and re
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/district_summary_original_data.png" width="800">
 
 ### School Summary
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_THS_adjusted.png" width="800">
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_THS_adjusted.png" width="700">
 The above table is the School Summary after the 9th Graders from Thomas High School has been removed. The below table is the district summary prior to the removal of the "NaN" score of 9th Graders from Thomas High School. We can note the following changes:
 
 - The % Passing Math has changed from 66.9 to 93.2. There is a 26.3 difference in percentage.
@@ -32,7 +32,13 @@ The above table is the School Summary after the 9th Graders from Thomas High Sch
 
 By replacing the ninth graders’ math and reading scores, Thomas High School’s performance relative to the other schools puts the school more in line with the overall trend for the district. If we didn't replace them, Thomas High School would look like they were failing in both categories. 
 
-<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_nan.png" width="800">
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/school_summary_nan.png" width="700">
+
+### Top 5 performing schools, based on the overall passing rate
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/top_five.png" width="700">
+
+### Bottom 5 performing schools, based on the overall passing rate
+<img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/bottom_five.png" width="700">
 
 ### Math and Reading Test Scores Filtered Down
 After replacing the ninth graders’ math and reading scores for Thomas High School, the following tables are produced:
@@ -40,24 +46,22 @@ After replacing the ninth graders’ math and reading scores for Thomas High Sch
 #### Math and reading scores by grade
 
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/grade_math_scores.png" width="250">
-The above is the math scores by grade per high school. We can note that we replaced Thomas High School 9th Grade with NaN.
+The above is the average math score for each grade level from each school. We can note that we replaced Thomas High School 9th Grade with NaN.
 
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/grade_reading_scores.png" width="250">
-The above is the reading scores by grade per high school. We can note that we replaced Thomas High School 9th Grade with NaN.
+The above is the average reading score for each grade level from each school. We can note that we replaced Thomas High School 9th Grade with NaN.
   
 #### Scores by school spending
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_spending.png" width="700">
-The above is the scores by school spending. We can note that there is an large difference in the % overall passing for the spending range of $586-630 from the original data. 
+The above is the scores by school spending per student.
   
 #### Scores by school size
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_size.png" width="700">
-  - Scores by school size
+ The above is the scores by school size
 
 #### Scores by school type
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_type.png" width="700">
-  - Scores by school type
-
-### After running the python code, the following results were displayed in a text file for easy viewing:
+ The above is the scores by school type
 
 ## Summary
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced.
+By replacing the math and reading scores for nineth graders at Thomas High School with NaNs, we created a better analysis for the school board of the Math and Reading Test Scores. For the district, the % Passing Math, % Passing Reading and % Overall Passing was reduced. Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced.
