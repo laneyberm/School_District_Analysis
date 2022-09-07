@@ -53,15 +53,12 @@ The above is the average reading score for each grade level from each school. We
   
 #### Scores by school spending
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_spending.png" width="700">
-The above is the scores by school spending per student.
   
 #### Scores by school size
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_size.png" width="700">
- The above is the scores by school size
 
 #### Scores by school type
 <img src="https://github.com/laneyberm/School_District_Analysis/blob/main/Resources/scores_by_type.png" width="700">
- The above is the scores by school type
 
 ## Summary
-By replacing the math and reading scores for nineth graders at Thomas High School with NaNs, we created a better analysis for the school board of the Math and Reading Test Scores. For the district, the % Passing Math, % Passing Reading and % Overall Passing was reduced. Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs. There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced.
+By replacing the math and reading scores for nineth graders at Thomas High School with NaNs, we created a better analysis for the school board of the Math and Reading Test Scores. For the district, the % Passing Math, % Passing Reading and % Overall Passing was reduced. The % Overall passing for Thomas High School changed from 65% to 90%, which is more in line with the district. Additionally, Thomas High School moved to the Top Performing School List when the nineth graders were replaced. 
